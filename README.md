@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning computing science
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me
-- Email: etohaae@gmail.com
+- [Email](etohaae@gmail.com)
+- [Linkedin]()
 
 <!---
 mrnabet7/mrnabet7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
