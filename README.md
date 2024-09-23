@@ -1,7 +1,7 @@
 ## - 👋 Hi, I’m @mrnabet7
 - 👀 I’m interested in seeking a solution
 - 🌱 I’m currently learning computing science
-- 💞️ I’m looking to collaborate on business 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me
 - Email: etohaae@gmail.com
 
